@@ -1,6 +1,9 @@
-# SvelteKit-x-Neutralino
+# Note
+Please use https://github.com/neutralinojs/neutralinojs-minimal and follow the steps described there.
 
-This repo serves as a basic showcase for working with Neutralino and SvelteKit.
+## ~~SvelteKit-x-Neutralino~~
+
+~~This repo serves as a basic showcase for working with Neutralino and SvelteKit.~~
 
 # Build
 
